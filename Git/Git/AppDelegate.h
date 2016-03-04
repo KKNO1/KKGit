@@ -7,6 +7,7 @@
 //
 
 //我是KK
+//hello,大家好,赵英奎
 #import <UIKit/UIKit.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
